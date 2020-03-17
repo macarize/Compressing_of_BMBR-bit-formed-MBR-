@@ -1,0 +1,17 @@
+﻿  Axis_gen.c
+C:\Users\leehy\OneDrive\BMBR_IBMBR\Source\Spatial_data_compression_v3.4\Spatial data compression\Spatial data compression\Axis_gen.c(8): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  DLinkedList.c
+  Improved_compresse.c
+C:\Users\leehy\OneDrive\BMBR_IBMBR\Source\Spatial_data_compression_v3.4\Spatial data compression\Spatial data compression\Improved_compresse.c(79): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\leehy\OneDrive\BMBR_IBMBR\Source\Spatial_data_compression_v3.4\Spatial data compression\Spatial data compression\Improved_compresse.c(85): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  compression.c
+C:\Users\leehy\OneDrive\BMBR_IBMBR\Source\Spatial_data_compression_v3.4\Spatial data compression\Spatial data compression\compression.c(97): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  main.c
+C:\Users\leehy\OneDrive\BMBR_IBMBR\Source\Spatial_data_compression_v3.4\Spatial data compression\Spatial data compression\main.c(17): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\leehy\OneDrive\BMBR_IBMBR\Source\Spatial_data_compression_v3.4\Spatial data compression\Spatial data compression\main.c(17): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\leehy\OneDrive\BMBR_IBMBR\Source\Spatial_data_compression_v3.4\Spatial data compression\Spatial data compression\main.c(27): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\leehy\OneDrive\BMBR_IBMBR\Source\Spatial_data_compression_v3.4\Spatial data compression\Spatial data compression\main.c(24): warning C4101: 'tempSet' :참조되지 않은 지역 변수입니다.
+C:\Users\leehy\OneDrive\BMBR_IBMBR\Source\Spatial_data_compression_v3.4\Spatial data compression\Spatial data compression\main.c(25): warning C4101: 'mpq' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+C:\Users\leehy\OneDrive\BMBR_IBMBR\Source\Spatial_data_compression_v3.4\Spatial data compression\Spatial data compression\Improved_compresse.c(61): warning C4716: 'connectEdge': 값을 반환해야 합니다.
+  Spatial data compression.vcxproj -> C:\Users\leehy\OneDrive\BMBR_IBMBR\Source\Spatial_data_compression_v3.4\Spatial data compression\Debug\Spatial data compression.exe
